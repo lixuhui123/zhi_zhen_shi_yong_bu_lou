@@ -18,8 +18,10 @@
 //{
 //
 //}
-////void test2(int **arr)//ok? 
-////{}
+//void test2(int **arr)//ok? yes ?
+//{
+//
+//}
 //int main()
 //{
 //	//int arr[5];//数组
@@ -28,7 +30,7 @@
 //	//int(*parr3[10])[5];//数组指针数组
 //	int arr[10] = { 0,1,2,3,4,5,6,7 };
 //	//printf("%d\n", arr[2]);
-//	int *arr2[10] = arr;
+//	int *arr2[10] = {0};
 //	
 //	//test(arr);//看类型是否匹配
 //	//printf("%d\n", arr[2]);

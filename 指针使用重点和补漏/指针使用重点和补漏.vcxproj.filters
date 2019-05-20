@@ -24,6 +24,15 @@
     <ClCompile Include="4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="二级指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>

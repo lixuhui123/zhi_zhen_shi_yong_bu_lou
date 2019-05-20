@@ -1,2 +1,13 @@
-﻿  二级指针.cpp
+﻿  5.cpp
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[4]”
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[4]”
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int (*)[4]”
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(13): warning C4474: printf: 格式字符串中传递的参数太多
+  f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(13): note: 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
+f:\bite learn\指针使用重点和补漏\指针使用重点和补漏\5.cpp(6): warning C4101: “b”: 未引用的局部变量
+  7.cpp
+  正在生成代码...
   指针使用重点和补漏.vcxproj -> F:\bite learn\指针使用重点和补漏\Debug\指针使用重点和补漏.exe
