@@ -122,6 +122,7 @@
     <ClCompile Include="6.cpp" />
     <ClCompile Include="7.cpp" />
     <ClCompile Include="8.cpp" />
+    <ClCompile Include="9.cpp" />
     <ClCompile Include="二级指针.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
